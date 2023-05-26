@@ -1,0 +1,25 @@
+[{
+    "url" : "DVD_img1.jpg",
+    "title" : "헬렌:내 영혼의 자화상 - DVD",
+    "net_price" :"25,300",
+    "price" : "23,500원",
+    "point" : "+240P",
+    "bottomurl" : "DVD_img2.jpg",
+    "bottom_title" : "스탠리 큐브릭 4필..."
+},{
+    "url" : "DVD_img4.jpg",
+    "title" : "스파이더맨 : 노 웨이 홈 - DVD",
+    "net_price" :"25,000",
+    "price" : "22,000원",
+    "point" : "+220P",
+    "bottomurl" : "DVD_img3.jpg",
+    "bottom_title" : "진격의 거인 1기 TV..."
+},{
+    "url" : "DVD_img5.jpg",
+    "title" : "피터 래빗 2 : 파 프롬 가든 - 블루레이",
+    "net_price" :"34,900",
+    "price" : "31,900원",
+    "point" : "+320P",
+    "bottomurl" : "DVD_img3.jpg",
+    "bottom_title" : "진격의 거인 1기 TV..."
+}]
